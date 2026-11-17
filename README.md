@@ -11,7 +11,7 @@ Kompatibel mit Google Authenticator, Authy, Microsoft Authenticator u. a.
 
 ## Installation
 ```bash
-https://github.com/khalil135711/Flask-TOTP-authentication.git
+git clone https://github.com/khalil135711/Flask-TOTP-authentication.git
 cd Flask-TOTP-authentication
 python -m venv .venv
 source .venv/bin/activate      # Ps: in Windows: .venv\Scripts\activate
