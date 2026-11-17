@@ -11,10 +11,10 @@ Kompatibel mit Google Authenticator, Authy, Microsoft Authenticator u. a.
 
 ## Installation
 ```bash
-git clone https://github.com/<DEIN-USERNAME>/<REPO-NAME>.git
-cd <REPO-NAME>
+https://github.com/khalil135711/Flask-TOTP-authentication.git
+cd Flask-TOTP-authentication
 python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+source .venv/bin/activate      # Ps: in Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
 ```
@@ -32,4 +32,4 @@ Dann http://127.0.0.1:5000 öffnen.
 - `debug=True` in `app.py` entfernen
 
 ## Lizenz
-MIT
+MIT -With - Avec 😅
