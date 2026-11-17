@@ -1,3 +1,5 @@
+<img width="557" height="664" alt="Bildschirmfoto 2026-11-18 um 00 18 34" src="https://github.com/user-attachments/assets/cc4a18de-b7fc-4b05-91e6-6cbf589f7e60" />
+
 # Flask TOTP Authentication
 
 Zwei-Faktor-Authentifizierung (Passwort + Einmalcode / TOTP) mit Python, Flask und Web-Oberfläche.
